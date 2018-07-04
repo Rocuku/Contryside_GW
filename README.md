@@ -26,7 +26,7 @@
 
 ![图6](https://raw.githubusercontent.com/Rocuku/Contryside_GW/master/images/6.png)
 
-邮件点击对应导航可以进行删除操作
+右键点击对应导航可以进行删除操作
 ![图7](https://raw.githubusercontent.com/Rocuku/Contryside_GW/master/images/7.png)
 
 ## QQ 登录功能
