@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/login.qml</file>
+        <file>qml/weather.qml</file>
+        <file>qml/mainmenu.qml</file>
+        <file>qml/config.qml</file>
+        <file>qml/userconfig.qml</file>
+        <file>js/weather.js</file>
+        <file>qml/webconfig.qml</file>
+        <file>pro.ico</file>
+    </qresource>
+</RCC>
